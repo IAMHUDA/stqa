@@ -1,0 +1,10 @@
+^D:\_POJECT_KEL2_STQA\TC1141-FINALPROJECT2023\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/_Poject_kel2_stqa/tc1141-finalproject2023/windows -BD:/_Poject_kel2_stqa/tc1141-finalproject2023/build/windows/x64 --check-stamp-file D:/_Poject_kel2_stqa/tc1141-finalproject2023/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

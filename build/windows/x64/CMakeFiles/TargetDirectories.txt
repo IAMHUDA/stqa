@@ -1,0 +1,10 @@
+D:/_Poject_kel2_stqa/tc1141-finalproject2023/build/windows/x64/CMakeFiles/INSTALL.dir
+D:/_Poject_kel2_stqa/tc1141-finalproject2023/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+D:/_Poject_kel2_stqa/tc1141-finalproject2023/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+D:/_Poject_kel2_stqa/tc1141-finalproject2023/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/_Poject_kel2_stqa/tc1141-finalproject2023/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/_Poject_kel2_stqa/tc1141-finalproject2023/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+D:/_Poject_kel2_stqa/tc1141-finalproject2023/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+D:/_Poject_kel2_stqa/tc1141-finalproject2023/build/windows/x64/runner/CMakeFiles/final_project_2023.dir
+D:/_Poject_kel2_stqa/tc1141-finalproject2023/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+D:/_Poject_kel2_stqa/tc1141-finalproject2023/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir

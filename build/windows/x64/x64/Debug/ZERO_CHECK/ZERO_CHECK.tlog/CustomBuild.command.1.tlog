@@ -1,0 +1,10 @@
+^D:\_POJECT_KEL2_STQA\TC1141-FINALPROJECT2023\BUILD\WINDOWS\X64\CMAKEFILES\7EA32E0F18A3F8AFEF3701C7CF42E304\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/_Poject_kel2_stqa/tc1141-finalproject2023/windows -BD:/_Poject_kel2_stqa/tc1141-finalproject2023/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/_Poject_kel2_stqa/tc1141-finalproject2023/build/windows/x64/final_project_2023.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
